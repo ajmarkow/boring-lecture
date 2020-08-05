@@ -16,3 +16,8 @@ border: 20px;
 border-color: cadetblue;
 border-style:double
 }
+
+h1.intro {
+  border-width: 50px;
+  border-style:dashed
+}
