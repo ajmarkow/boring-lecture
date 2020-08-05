@@ -14,10 +14,13 @@ img{
 .column{
   width: 300px;
   float: left;
-  text-shadow: 20px 20px #ff0000;
-  text-decoration: line-through;git
+  text-shadow: 300px 20px #ff0000;
   background-color: #00FFFF;
   color: blue;
   padding-left:30%;
   padding-right:30%
+  font-family: 'Lemonada';
+}
+.topsection{
+  background-color:olivedrab;
 }
