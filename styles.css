@@ -6,3 +6,8 @@
 p.emoji{
   text-align:left
 }
+
+.maintext{
+  text-shadow: 20px 20px #ff0000;
+  text-decoration: line-through;git 
+}
