@@ -21,3 +21,7 @@ h1.intro {
   border-width: 50px;
   border-style:dashed
 }
+
+p.emoji{
+  text-align:center
+}
