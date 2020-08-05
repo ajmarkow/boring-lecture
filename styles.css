@@ -6,17 +6,18 @@
 p.emoji{
   text-align:left
 }
-
-.maintext{
+g
+img{
+  float: right;
+  padding-:50px
+}
+.column{
+  width: 300px;
+  float: left;
   text-shadow: 20px 20px #ff0000;
   text-decoration: line-through;git
   background-color: #00FFFF;
   color: blue;
   padding-left:30%;
   padding-right:30%
-}
-
-img{
-  float: right;
-  padding-:50px
 }
