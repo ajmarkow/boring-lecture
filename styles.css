@@ -1,10 +1,8 @@
-intro {
-  border-width:5px
-  border-style:solid
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  width: 75%
+.intro {
+ color:purple;
+ text-align:right;
 }
 
 p.emoji{
-  text-align:center
+  text-align:left
 }
