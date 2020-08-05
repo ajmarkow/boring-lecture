@@ -1,25 +1,8 @@
-p.intro {
-  width: 40%;
-  font-weight: 100;
-  font-style:italic;
-}
-
-h2.intro {
+intro {
   border-width:5px
   border-style:solid
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   width: 75%
-}
-
-img.intro {
-border: 20px;
-border-color: cadetblue;
-border-style:double
-}
-
-h1.intro {
-  border-width: 50px;
-  border-style:dashed
 }
 
 p.emoji{
