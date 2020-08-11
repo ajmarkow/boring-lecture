@@ -19,8 +19,12 @@ img{
   color: blue;
   padding-left:30%;
   padding-right:30%
-  font-family: 'Lemonada';
 }
 .topsection{
   background-color:olivedrab;
+}
+
+.highlightandbox{
+  background-color: #ffff00;
+  border:10px;
 }
